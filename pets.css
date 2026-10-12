@@ -1,0 +1,33 @@
+html {
+    background-color: rgb(234, 216, 199);
+      font-family: "Playfair Display", serif;
+}
+
+.header-nav {
+    padding: 10px;
+    background-color: rgb(111, 76, 63);
+}
+
+a {
+    color: azure;
+}
+
+.site-heading {
+    margin: 0;
+}
+
+
+.tag-line {
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.main {
+    padding: 10px;
+    background-color: rgb(198, 165, 116);
+}
+
+.site-footer {
+    padding: 10px;
+    background-color: rgb(195, 142, 78);
+}
