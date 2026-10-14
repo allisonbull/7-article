@@ -1,0 +1,29 @@
+html {
+    background-color: antiquewhite;
+}
+
+.wrapper {
+    max-width:  600px;
+    margin: 0 auto;
+}
+
+.site-header {
+    background-color: rgb(201, 146, 78);
+}
+
+
+.site-main {
+    background-color: rgb(242, 242, 160);
+}
+
+.article-section {
+    background-color: rgb(219, 188, 117);
+}
+
+.callout {
+    background-color: rgb(192, 136, 205);
+}
+
+.site-footer {
+    background-color:rgb(170, 209, 111)
+}
